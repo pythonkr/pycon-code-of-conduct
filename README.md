@@ -1,17 +1,13 @@
 pycon-code-of-conduct
 =====================
 
-This is a "fork" of the 2013 PyCon code of conduct including the staff and attendee guides. 
+이 저장소는 스태프와 참가자를 위한 가이드를 포함하는 PyCon 2013 행동강령의 "fork"입니다.
 
-Thank you to Adria Richards and many others with the Python Software Foundation and Python community for recommending
-that we publicly discuss and version control these documents so changes can be suggested, wording corrected and we can
-continue to iterate, as a community on these policies and procedures.
+이런 정책과 절차 위에서 커뮤니티로써 반복을 통해 지속 가능하도록 우리가 공개적으로 토론하고 변화가 제안될 수 있도록 표현을 수정하고 이러한 문서들을 버전 관리하도록 권장해준 Adria Richards와 파이썬 소프트웨어 재단, 파이썬 커뮤니티의 많은 분들께 고맙습니다.
 
-PyCon and the community as a whole are still very much in a learning process, the conference is 11 years old and still
-evolving daily. Each year we see massive improvements (such as the code of conduct and staff procedures) and PyCon 2013
-was no different.
+PyCon과 커뮤니티 전체가 여전히 매우 많은 학습의 단계에 있으며, 컨퍼런스는 11살이 되었고 여전히 매일 진화하고 있습니다. 매해 우리는 엄청난 개선(행동강령과 스태프 절차)을 보고 있으며, PyCon 2013 역시 다르지 않습니다.
 
-We hope, as a team we can iterate and improve continually.
+우리는 팀으로써 반복하고 지속적인 개선을 할 수 있기를 희망합니다.
 
-No changes are final until approved by the PyCon Chair / Staff and versions in place for a given year will be clearly
-marked, the website contents on us.pycon.org will clearly state the revision of the documents posted.
+PyCon 의장과 스태프가 승인 할 때까지 변경이 없는 최종본이며, 해당 연도의 버전이 명확하게 나타납니다.
+us.pycon.org의 웹사이트 컨텐츠로 게시 된 문서의 개정 내용이 명확하게 표시됩니다.
