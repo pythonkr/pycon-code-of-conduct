@@ -1,38 +1,29 @@
-This procedure has been adopted from the Ada Initiative's guide titled "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)”.
+이 가이드라인의 많은 내용은 "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)"에서 차용되었음을 알립니다.  
 
-1\. Keep in mind that all conference staff will be wearing a conference t-shirt/button with the word “STAFF”
-on it (or otherwise clearly marked as staff). The staff will also be prepared to handle the incident.
-All of our staff are informed of the [code of conduct policy](/2013/about/code-of-conduct/) and guide
-for handling harassment at the conference. *There will be a mandatory staff meeting onsite at the conference
-when this will be reiterated.*
+1. 컨퍼런스의 스텝(이하 스텝)들은 컨퍼런스 참가자(이하 참가자)들이 명시적으로 인지할 수 있는 방법으로 "STAFF"이라고 적힌 티셔츠를 입고 있습니다.  
+스텝들은 사건/사고에 적절히 대응할 수 있도록 사전 교육을 받은 상태이며 [Code of Conduct](/2013/about/code-of-conduct/)(이하 CoC)에 대해 정확히 인지함으로써 컨퍼런스 기간중 사건/사고가 발생했을때 적절한 대처에 대해 훈련 받았습니다.  
+이를 위해 컨퍼런스가 개최되는 기간동안 매일 현장에서의 교육이 필수로 진행되고 있습니다.  
 
-2\. Report the harassment incident (preferably in writing) to a conference staff member. All reports
-are confidential. Please do not disclose public information about the incident until the staff have
-had sufficient time in which to address the situation. This is as much for your safety and protection
-as it is the other attendees.
+2. 불쾌한 말이나 행동으로 인한 사건/사고는 이메일이나 알려드린 전화번호, 또는 스텝들에게 직접 알려주시길 바랍니다. 제출하신 사건/사고 보고서는 기밀로 처리됩니다.  
+사건/사고를 접수한 스텝이 충분한 시간을 가지고 대응을 해드리기 전까지 해당 내용을 공개하시는 것은 자제해주시기를 부탁 드립니다.  
+이는 사건/사고를 신고한 참가자의 안전과 다른 참가자들의 보호를 위한 것입니다.  
 
-When reporting the event to staff, try to gather as much information as available but do not
-interview people about the incident. Staff will assist you in writing the report/collecting information.
+같은 맥락으로, 스텝들이 해당 건을 확인하기 위해 가능한 많은 정보들을 수집하려고 노력하겠지만, 해당 건에 대해 사람들을 인터뷰하지는 않을 것입니다.  
+스텝들은 정보를 수집하여 사건/사고 보고서를 작성해드리는 방법으로 여러분들 돕겠습니다.  
 
-The important information consists of:
+정확한 보고서의 작성을 위해 필요한 정보는 아래와 같습니다.  
 
-- Identifying information (name/badge number) of the participant doing the harassing
-- The behavior that was in violation
-- The approximate time of the behavior (if different than the time the report was made)
-- The circumstances surrounding the incident
-- Other people involved in the incident
+- 개인 식별정보 (불쾌한 말이나 행동을 한 개인의 이름이나 등록번호)  
+- CoC에 위배되는 행동의 설명  
+- 사건/사고가 발생한 대략적인 시간 정보  
+- 해당 시점의 주변 상황  
+- 사건/사고에 연관되어 있는 참가자 정보  
 
-The staff is well informed on how to deal with the incident and how to further proceed with the situation.
+스텝들은 사건/사고에 대한 정확한 대응방법과 이후 처리과정에 대해서 명확히 인지하고 있습니다.  
 
-3\. If everyone is presently physically safe, involve law enforcement or security only at a victim's request.
-If you do feel your safety in jeopardy please do not hesitate to contact local law enforcement by
-dialing 911. If you do not have a cell phone, you can use any hotel phone or simply ask a staff member.
+3. 사건/사고에 연관되어 있는 모든 참가자가 물리적으로 안전하다고 판단되면, 피해자의 요청에 의해서 경찰이나 보안관련 직원을 요청할 수 있습니다.  
+피해자가 어떤 형태로든 신변에 위협을 느끼고 있다고 판단되면 즉시 사법/의료 기관에 보고하게 됩니다. 휴대용 전화기를 갖고 있지 않으시면 스텝이 대신 연락을 해드리겠습니다.  
 
-**Note**: Incidents that violate the Code of Conduct are extremely damaging to the community, and they
-will not be tolerated. The silver lining is that, in many cases, these incidents present a chance for
-the offenders, and the community at large, to grow, learn, and become better. PyCon staff requests
-that they be your first resource when reporting a PyCon-related incident, so that they may enforce
-the Code of Conduct and take quick action toward a resolution.
-
-A listing of [PyCon staff is located here](/2013/about/staff/), including contact phone numbers.
-If at all possible, all reports should be made directly to [Ewa Jodlowska](mailto:ewa@python.org) (Event Coordinator) or [Jesse Noller](mailto:jnoller@python.org) (PyCon Chair).
+**참고**: CoC를 위배하는 사건/사고는 커뮤니티의 구성원들과 조직 자체에 매우 안좋은 영향을 끼치게 되며, 이런 행위에 대해서는 단호히 대처해야 합니다.  
+여러분의 적극적인 신고가 여러분이 속한 커뮤니티의 자정작용을 이끌어 냄으로써 좀더 괜찮은 커뮤니티로서의 형태를 유지할 수 있게 합니다.  
+파이콘의 스텝이 사건/사고가 발생했을 때 가장 먼저 도움을 드릴 수 있기를 희망하고 있으며, 신속하고 적절한 대응을 해드릴 것 역시 약속 드립니다.  
