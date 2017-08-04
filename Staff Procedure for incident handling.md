@@ -1,65 +1,66 @@
-This procedure has been adopted from the Ada Initiative's guide titled "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)”.
+이 지침의 많은 내용은 Ada Initiative의 "[컨퍼런스 반(反) 폭력 / 제보에 대응하기 (Conference anti-harassment / Responding to Reports)](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)”에서 차용되었음을 알립니다.
 
 -------------------------------------------------------------------------------------------------
-Be sure to have a good understanding of our Code of Conduct policy, which can be found here: [https://us.pycon.org/2013/about/code-of-conduct/](https://us.pycon.org/2013/about/code-of-conduct/)
+다음 사이트에 나와있는 Code of Conduct(이하 CoC) 정책을 잘 이해하고 있어야 합니다. [https://us.pycon.org/2013/about/code-of-conduct/](https://us.pycon.org/2013/about/code-of-conduct/)
 
-Also have a good understanding of what is expected from an attendee that wants to report a harassment incident. These guidelines can be found here: [/2013/about/code-of-conduct/harassment-incidents/](/2013/about/code-of-conduct/harassment-incidents/)
+또한 사태를 제보하려는 참석자에게 기대되는 바를 잘 이해하세요. 이 지침은 다음 페이지에서 확인할 수 있습니다. [/2013/about/code-of-conduct/harassment-incidents/](/2013/about/code-of-conduct/harassment-incidents/)
 
-Try to get as much of the incident in written form by the reporter. If you cannot, transcribe it yourself as it was told to you. The important information to gather include the following:
+제보자에 의해 쓰여진 사태에 대한 항목을 얻으려고 하세요. 만약 그럴 수 없다면, 당신에게 말한 대로 옮겨 작성하세요. 수집해야 할 중요한 정보는 다음과 같습니다.
 
- - Identifying information (name/badge number) of the participant doing the harassing
- - The behavior that was in violation
- - The approximate time of the behavior (if different than the time the report was made)
- - The circumstances surrounding the incident
- - Other people involved in the incident
+ - 희롱자의 개인 식별 정보를 확인하기 (이름 혹은 번호)
+ - CoC 정책을 위반한 행동
+ - 행동의 대략적인 시간 (제보가 들어온 시간과 다른 경우)
+ - 사태 정황
+ - 이 사태에 연루된 다른 사람들
 
-Prepare an initial response to the incident. This initial response is very important and will set the tone for PyCon. Depending on the severity/details of the incident, please follow these guidelines:
+그 사태에 초기 대응을 준비하세요. 이 초기 대응은 매우 중요하고 이로인해 파이콘의 분위기가 정해질 것입니다.
+사태의 심각도 혹은 세부사항에 따라 다음 지침을 따르세요.
 
- - If there is any general threat to attendees or the safety of anyone including conference staff is in doubt, summon security or police
- - Offer the victim a private place to sit
- - Ask "is there a friend or trusted person who you would like to be with you?" (if so, arrange for someone to fetch this person)
- - Ask them "how can I help?"
- - Provide them with your list of emergency contacts if they need help later
- - If everyone is presently physically safe, involve law enforcement or security only at a victim's request
+ - 참석자에게 일반적인 위협이 있거나, 스태프를 포함한 모든 사람의 안전을 책임질 수 없는 경우 보안 요원이나 경찰을 호출하세요.
+ - 피해자에게 안전하고 개인적인 공간을 제공하세요.
+ - 그리곤 "같이 계시고 싶은 친구나 신뢰할 만한 사람이 있습니까?" 라고 물어보세요. (만역 그렇다면 데려올 수 있도록 다른 사람에게 부탁하세요)
+ - 그들에게 "어떻게 도와드릴 수 있을까요?" 라고 물어보세요.
+ - 그들이 추후에 도움이 필요하다면, 긴급 연락망을 제공해주세요.
+ - 모든 사람이 물리적으로 안전하다면 피해자의 요청이 있을 때에만 법 집행이나 보안 요원을 동원하세요.
 
-There are also some guidelines as to what not to do as an initial response:
+초기 대응으로 하지 말아야 할 것에 대한 지침도 있습니다. 
 
- - Do not overtly invite them to withdraw the complaint or mention that withdrawal is OK. This suggests that you want them to do so, and is therefore coercive. "If you're OK with it [pursuing the complaint]" suggests that you are by default pursuing it and is not coercive.
- - Do not ask for their advice on how to deal with the complaint. This is a staff responsibility.
- - Do not offer them input into penalties. This is the staff's responsibility.
+ - 불만 사항을 제기하는 걸 철회하도록 명백하게 요청하거나, 철회가 괜찮다고 언급하지 마세요. 이 제안은 강압적으로 당신이 철회하기를 바란다는 것을 암시합니다. "괜찮으시다면 불만 사항을 얘기해주세요." 라는 것은 당연히도 당신이 불만 사항에 대한 의견을 들을 준비가 되어있다는 것을 의미합니다.
+ - 이 문제를 어떻게 해결하기를 원하는지 물어보지 마세요. 이것은 스태프의 책임입니다.
+ - 그들에게 패널티를 주는 것을 제안하지 마세요. 이것은 스태프의 책임입니다.
 
-Once something is reported to a staff member, immediately meet with the conference chair and/or event coordinator. The main objectives of this meeting is to find out the following:
+스태프에게 제보가 들어왔을 때, 즉시 의장 그리고 준비위원회를 만나세요. 주 목적은 다음과 같은 내용을 찾기위함 입니다.
 
- - What happened?
- - Are we doing anything about it?
- - Who is doing those things?
- - When are they doing them?
+ - 무슨 일이 일어났는지
+ - 대응은 어떻게 하고 있는가
+ - 누가 그런 행동을 했는가
+ - 언제 그런 행동을 했는가
 
-After the staff meeting and discussion, have a staff member (preferably the conference chair or event coordinator if available) communicate with the alleged harasser. Make sure to inform them of what has been reported about them.
+준비위원회에서 논의가 끝나면, 준비위원회와 가해자를 만나서 얘기해보세요. 제보가 들어온 것을 가해자에게 알려주세요.
 
-Allow the alleged harasser to give their side of the story to the staff. After this point, if the report stands, let the alleged harasser know what actions will be taken against them.
+준비위원회에게 가해자측 상황 전달을 할 수 있도록 허락해주세요. 이 시점 이후 보고서가 작성되면, 가해자가 피해자에게 어떤 조치를 취해야 하는지 알려주세요.
 
-Some things for the staff to consider when dealing with Code of Conduct offenders:
+CoC를 위반한 사람을 다룰 때 스태프가 고려해야 할 사항은 다음과 같습니다.
 
-- Warning the harasser to cease their behavior and that any further reports will result in sanctions
-- Requiring that the harasser avoid any interaction with, and physical proximity to, their victim for the remainder of the event
-- Ending a talk that violates the policy early
-- Not publishing the video or slides of a talk that violated the policy
-- Not allowing a speaker who violated the policy to give (further) talks at the event now or in the future
-- Immediately ending any event volunteer responsibilities and privileges the harasser holds
-- Requiring that the harasser not volunteer for future events your organization runs (either indefinitely or for a certain time period)
-- Requiring that the harasser refund any travel grants and similar they received (this would need to be a condition of the grant at the time of being awarded)
-- Requiring that the harasser immediately leave the event and not return
-- Banning the harasser from future events (either indefinitely or for a certain time period)
-- Removing a harasser from membership of relevant organizations
-- Publishing an account of the harassment and calling for the resignation of the harasser from their responsibilities (usually pursued by people without formal authority: may be called for if the harasser is the event leader, or refuses to stand aside from the conflict of interest, or similar, typically event staff have sufficient governing rights over their space that this isn't as useful)
+- 피재하들이 가해자의 행동을 중단하고 제보가 더 들어오면 제재를 받게 될 것이라고 경고하세요.
+- 가해자가 남은 사태에 대해 피해자와의 상호 작용 및 물리적 접근을 피하도록 요구하세요.
+- 정책을 위반하는 이야기를 일찍 끝내세요.
+- 정책을 위반한 동영상 또는 슬라이드는 게시하지 않게 하세요.
+- 정책을 위반한 연사는 현재 또는 미래의 행사에서 더이상의 출석을 허용하지 마세요.
+- 가해자가 갖는  모든 자원 봉사자의 책임과 특권을 즉시 종료하세요.
+- 가해자가 당신의 조직에서 더이상 활동하지 않도록 요구하세요. (무한정 혹은 특정 기간 동안)
+- 피해자는 가해자로부터 체류비, 유류비와 유사한 액수를 환불 받으라고 요구하세요.
+- 가해자가 행사장을 즉시 떠나고, 다시 돌아오지 않도록 요구하세요.
+- 가해자가 미래의 이벤트에 참석하는 것을 금지하세요. (무한정 혹은 특정 기간 동안)
+- 가해자를 관련 단체의 회원 자격을 박탈하세요.
+- 희롱에 대한 내용을 게시하고, 가해자의 사임을 요구하세요. (보통 공식적인 권한이 없는 사람들이 추구합니다: 가해자가 이벤트 리더이거나, 이해 상충에서 벗어나기를 거부하는 것과 같은 유사한 경우, 일반적인 이벤트 스태프는 *(???)* 충분한 관리 권한을  갖고 있다. typically event staff have sufficient governing rights over their space that this isn't as useful)
 
-Give accused attendees a place to appeal to if there is one, but in the meantime the report stands. Keep in mind that it is not a good idea to encourage an apology from the harasser.
+가해자가 반론을 제기할 수 있는 장소를 제공하고, *내용은 보고서에 작성하세요*. 가해자로부터 용서를 하도록 장려하는 것은 좋은 생각이 아닌 것임을 명심하세요.
 
-It is very important how we deal with the incident publicly. Our policy is to make sure that everyone aware of the initial incident is also made aware that it is not according to policy and that official action has been taken - while still respecting the privacy of individual attendees.  When speaking to individuals (those who are aware of the incident, but were not involved with the incident) about the incident it is a good idea to keep the details out.
+사태를 공개적으로 다루는 것은 매우 중요합니다. 우리의 정책은 초기 상황을 알고있는 모든 사람들이 정책을 따르고 있지 않고 공식적인 행위를 취했음에도 불구하고 참석자의 프라이버시를 존중하면서도 인지하도록 하기 위함입니다. 사태를 알고 있지만 사태와 관련이 없는 참석자에게 사태에 대한 세부 사항을 얘기하는 것이 좋습니다.
 
-Depending on the incident, the conference chair, or designate, may decide to make one or more public announcements. If necessary, this will be done with a short announcement either during the plenary and/or through other channels. No one other than the conference chair or someone delegated authority from the conference chair should make any announcements. No personal information about either party will be disclosed as part of this process.
+사태에 따라 컨퍼런스 의장이나 지명자는 하나 이상의 공지를 하기로 결정해야 합니다. 필요할 경우 메인 세션 또는 별도의 다른 채널을 통해 짧게 공지를 해야합니다. 컨퍼런스 의장 이외의 사람이나 파이콘 준비위원회로부터 권한을 위임받은 사람은 누구도 발표할 수 없습니다. 어느 당사자에 관한 개인 정보도 이 과정에선 공개되지 않습니다.
 
-If some attendees were angered by the incident, it is best to apologize to them that the incident occurred to begin with.  If there are residual hard feelings, suggest to them to write an email to the conference chair or to the event coordinator. It will be dealt with accordingly.
+사태로 인해 일부 참가자들이 화를 낸 경우, 그 사태가 발생한 것 자체를 사과하는 것이 가장 좋습니다. 심하게 감정이 상한 경우 컨퍼런스 의장이나 이벤트 코디네이터에게 이메일을 보내도록 제안하세요. 개별적으로 처리될 것입니다.
 
-A listing of [PyCon staff is located here](/2013/about/staff/), including contact phone numbers. If at all possible, all reports should be made directly to [Ewa Jodlowska](mailto:ewa@python.org) (Event Coordinator) or [Jesse Noller](mailto:jnoller@python.org) (PyCon Chair).
+연락처를 포함한 파이콘 준비위원회의 목록은 [파이콘 한국 2017 준비위원회](/pycon/staff)에 있습니다. 도움이 필요하다면, 모든 제보는 [이벤트 코디네이터](mailto:MAIL) (이벤트 코디네이터) 혹은 [파이콘 의장](mailto:EMAIL)(파이콘 의장)에게 바로 연락주세요.
