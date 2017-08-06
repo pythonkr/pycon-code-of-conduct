@@ -1,9 +1,9 @@
 이 가이드라인의 많은 내용은 Ada Initiative의 "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)”에서 차용되었음을 알립니다.
 
 -------------------------------------------------------------------------------------------------
-우리의 Code of Conduct에 대해 잘 이해하고 있는지 확인해주세요. 문서는 여기에서 확인할 수 있습니다: [https://us.pycon.org/2013/about/code-of-conduct/](https://us.pycon.org/2013/about/code-of-conduct/)
+우리의 Code of Conduct에 대해 잘 이해하고 있는지 확인해주세요. 문서는 여기에서 확인할 수 있습니다: [Code of Conduct](https://github.com/pythonkr/pycon-code-of-conduct/blob/korean/code_of_conduct.md)
 
-또한, 사건을 신고하려는 참가자가 우리에게 무엇을 바라는지도 충분히 이해해야 합니다. 가이드라인은 여기에서 확인할 수 있습니다: [/2013/about/code-of-conduct/harassment-incidents/](/2013/about/code-of-conduct/harassment-incidents/)
+또한, 사건을 신고하려는 참가자가 우리에게 무엇을 바라는지도 충분히 이해해야 합니다. 가이드라인은 여기에서 확인할 수 있습니다: [참가자를 위한 사건 대응 절차](https://github.com/pythonkr/pycon-code-of-conduct/Attendee Procedure for incident handling.md)
 
 신고자가 서면으로 작성한 신고 내용을 최대한 활용합시다. 그러기 어렵다면 신고자가 말한 내용을 직접 기록해주세요. 이때 수집해야 할 주요 정보는 다음과 같습니다.
 
@@ -66,4 +66,4 @@ Code of Conduct 위반이 발생했을 때 스탭이 고려해야 할 사항은 
 
 만약 일부 참가자들이 사건에 대해 분노한다면, 사건이 발생한 것에 대해 사과하는 것이 좋습니다. 그래도 불편한 감정이 남아있는 참가자들에게는 컨퍼런스 의장에게 이메일을 보내도록 권장합니다.
 
-핸드폰 번호를 포함한 파이콘 스탭 명단은 [이곳]()에서 확인할 수 있습니다. 만약 가능하다면 신고는 [컨퍼런스 의장의 연락처]()로 직접 이루어져야 합니다.
+파이콘 스탭 명단은 [이곳](https://www.pycon.kr/2017/about/staff/)에서 확인할 수 있습니다. 만약 가능하다면 신고는 컨퍼런스 의장의 연락처([참고](https://www.pycon.kr/2017/about/coc/))로 직접 이루어져야 합니다.
