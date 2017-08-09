@@ -3,7 +3,7 @@
 -------------------------------------------------------------------------------------------------
 우리의 Code of Conduct에 대해 잘 이해하고 있는지 확인해주세요. 문서는 여기에서 확인할 수 있습니다: [Code of Conduct](https://github.com/pythonkr/pycon-code-of-conduct/blob/korean/code_of_conduct.md)
 
-또한, 사건을 신고하려는 참가자가 우리에게 무엇을 바라는지도 충분히 이해해야 합니다. 가이드라인은 여기에서 확인할 수 있습니다: [참가자를 위한 사건 대응 절차](https://github.com/pythonkr/pycon-code-of-conduct/Attendee Procedure for incident handling.md)
+또한, 사건을 신고하려는 참가자가 우리에게 무엇을 바라는지도 충분히 이해해야 합니다. 가이드라인은 여기에서 확인할 수 있습니다: [참가자를 위한 사건 대응 절차](https://github.com/pythonkr/pycon-code-of-conduct/blob/korean/Attendee%20Procedure%20for%20incident%20handling.md)
 
 신고자가 서면으로 작성한 신고 내용을 최대한 활용합시다. 그러기 어렵다면 신고자가 말한 내용을 직접 기록해주세요. 이때 수집해야 할 주요 정보는 다음과 같습니다.
 
