@@ -1,7 +1,7 @@
 이 가이드라인의 많은 내용은 "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)"에서 차용되었음을 알립니다.  
 
 1. 컨퍼런스의 스텝(이하 스텝)들은 컨퍼런스 참가자(이하 참가자)들이 명시적으로 인지할 수 있는 방법으로 "STAFF"이라고 적힌 티셔츠를 입고 있습니다.  
-스텝들은 사건/사고에 적절히 대응할 수 있도록 사전 교육을 받은 상태이며 [Code of Conduct](/2013/about/code-of-conduct/)(이하 CoC)에 대해 정확히 인지함으로써 컨퍼런스 기간중 사건/사고가 발생했을때 적절한 대처에 대해 훈련 받았습니다.  
+스텝들은 사건/사고에 적절히 대응할 수 있도록 사전 교육을 받은 상태이며 [Code of Conduct](https://github.com/pythonkr/pycon-code-of-conduct/blob/korean/code_of_conduct.md)(이하 CoC)에 대해 정확히 인지함으로써 컨퍼런스 기간중 사건/사고가 발생했을때 적절한 대처에 대해 훈련 받았습니다.  
 이를 위해 컨퍼런스가 개최되는 기간동안 매일 현장에서의 교육이 필수로 진행되고 있습니다.  
 
 2. 불쾌한 말이나 행동으로 인한 사건/사고는 이메일이나 알려드린 전화번호, 또는 스텝들에게 직접 알려주시길 바랍니다. 제출하신 사건/사고 보고서는 기밀로 처리됩니다.  
