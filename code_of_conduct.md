@@ -1,257 +1,256 @@
 
-# 파이콘 한국 행동강령
+# Pycon Korea Code of Conduct
 
-- [의도와 목적](#의도와-목적)  
-  - [파이콘 한국은 모든 참가자를 포용합니다](#파이콘-한국은-모든-참가자를-포용합니다)  
-  - [모든 참가자를 포용하는 게 왜 중요한가요?](#모든-참가자를-포용하는-게-왜-중요한가요)  
-  - [파이콘 한국은 차별과 괴롭힘을 용인하지 않습니다](#파이콘-한국은-차별과-괴롭힘을-용인하지-않습니다)  
-    - [행동강령은 행사와 관련된 모든 상황에서 적용됩니다](#행동강령은-행사와-관련된-모든-상황에서-적용됩니다)  
-    - [주의 깊게 읽어주세요](#주의-깊게-읽어주세요)  
-- [커뮤니티](#커뮤니티)  
-    - [환영하는 분위기를 만들어주세요](#환영하는-분위기를-만들어주세요)  
-    - [안전한 파이콘 한국을 만들어주세요](#안전한-파이콘-한국을-만들어주세요)  
-    - [서로 다름을 존중해주세요](#서로-다름을-존중해주세요)  
-- [의사 소통](#의사-소통)  
-    - [발표장 내에서는 발표자를 존중해주세요](#발표장-내에서는-발표자를-존중해주세요)  
-    - [대화는 같이 하는 것입니다](#대화는-같이-하는-것입니다)  
-    - [건설적인 토론을 해주세요](#건설적인-토론을-해주세요)  
-    - [일방적인 선전이나 선동을 하지 말아주세요](#일방적인-선전이나-선동을-하지-말아주세요)  
-- [프라이버시](#프라이버시)  
-    - [사진과 영상을 촬영할 때 주의해주세요](#사진과-영상을-촬영할-때-주의해주세요)  
-    - [사적인 정보를 지켜주세요](#사적인-정보를-지켜주세요)  
-- [영리 행위](#영리-행위)  
-- [공중 도덕](#공중-도덕)  
-    - [소음을 줄여주세요](#소음을-줄여주세요)  
-    - [공간을 깨끗하게 사용해주세요](#공간을-깨끗하게-사용해주세요)  
-- [신고하기](#신고하기)  
-    - [이렇게 신고해주세요](#이렇게-신고해주세요)  
-    - [행동강령에는 이런 한계가 있어요](#행동강령에는-이런-한계가-있어요)  
-- [당부의 말](#당부의-말)  
-    - [준비위원회를 존중해주세요](#준비위원회를-존중해주세요)  
-- [기여하기](#기여하기)  
-    - [이런 걸 참고했어요](#이런-걸-참고했어요)  
-    - [제안할 내용이 있다면 기여해주세요](#제안할-내용이-있다면-기여해주세요)  
-
+* [Purpose and Objective](#purpose-and-objective)
+    * [Pycon Korea welcomes all participants](#pycon-korea-welcomes-all-participants)
+    * [Why is it important to embrace all participants?](#why-is-it-important-to-embrace-all-participants)
+    * [Pycon Korea does not tolerate discrimination and harassment](#pycon-korea-does-not-tolerate-discrimination-and-harassment)
+    * [The Code of Conduct applies to all situations related to the event](#the-code-of-conduct-applies-to-all-situations-related-to-the-event)
+    * [Please read carefully](#please-read-carefully)
+* [Community](#community)
+    * [Let’s create a welcoming mood](#lets-create-a-welcoming-mood)
+    * [Make Pycon Korea safe](#make-pycon-korea-safe)
+    * [Please respect differences](#please-respect-differences)
+* [Communication](#communication)
+    * [Please respect the speaker when speaking](#please-respect-the-speaker-when-speaking)
+    * [Discussions are for everybody](#discussions-are-for-everybody)
+    * [Have constructive discussions](#have-constructive-discussions)
+    * [Do not engage in one-sided propaganda or incitement](#do-not-engage-in-one-sided-propaganda-or-incitement)
+* [Privacy](#privacy)
+    * [Be careful when taking photos or videos](#be-careful-when-taking-photos-or-videos)
+    * [Protect personal information](#protect-personal-information)
+* [Profit-seeking Behavior](#profit-seeking-behavior)
+* [Public Manners](#public-manners)
+    * [Don’t be loud](#dont-be-loud)
+    * [Keep the venue clean](#keep-the-venue-clean)
+* [Reporting](#reporting)
+    * [Reporting process is as follows](#reporting-process-is-as-follows)
+    * [The Code of Conduct has the following limitations](#the-code-of-conduct-has-the-following-limitations)
+* [Requests](#requests)
+    * [Please respect the PyCon Korea Organizing Team](#please-respect-the-pycon-korea-organizing-team)
+* [Contribution](#contribution)
+    * [Referred Sources](#referred-sources)
+    * [If you have any suggestions, please contribute](#if-you-have-any-suggestions-please-contribute)
 
 -------
 
-# 의도와 목적
+# Purpose and Objective
 
-## 파이콘 한국은 모든 참가자를 포용합니다
-파이콘 한국 행동강령(이하 행동강령)은 누구도 배제되지 않는 파이썬 커뮤니티를 위해 구성원들이 지켜야 하는 최소한의 약속입니다.  
+## Pycon Korea welcomes all participants
+The Pycon Korea Code of Conduct (hereinafter called COC) is the most basic promise that all members must observe to create a Python Community that welcomes everyone.
+
+Pycon Korea:
+*   Aims to create events that anyone can participate
+*   Aims to create an atmosphere where all forms of differences are accepted and respected.
+*    Aims to create a conference where all participants are treated equal regardless of gender, sexual orientation, gender identity, nationality, race, region, religion, age, social status, education, intellectual level, appearance, disability, disease, preferred diets and so forth.
+*   Aims to encourage an atmosphere that welcomes everyone.
     
-파이콘 한국은:
-*   누구나 편안하게 참여할 수 있는 행사를 지향합니다.
-*   서로 다름을 인정하고 존중하는 분위기를 지향합니다.
-*   성별, 성적 지향, 성 정체성, 국적, 인종, 지역, 종교, 나이, 사회적 신분, 학력, 지식 수준, 외모, 장애, 질병, 음식 선호 등과 관계 없이 모든 참가자가 동등한 컨퍼런스를 지향합니다.
-*   서로 환영하는 분위기를 독려합니다.
     
+## Why is it important to embrace all participants?
+Pycon Korea believes that an attitude of respecting diversity is the source for making society and community more abundant. In order to find solutions to solve difficult problems and help the community to continue to grow and bring about positive changes to the world, it is necessary to have various experiences and perspectives are needed. 
+
+## Pycon Korea does not tolerate discrimination and harassment
+Accordance to the Code of Conduct, the PyCon Korea Organizing Team can:
+*   Intervene or restrict situations where the safety of another participant/s is/are violated or if that person is not being respected.
+*   Expel participants who violated the Code of Conduct from the event, if necessary. In this case, participation fees will not be refunded.
+*   Report the situation to judicial or medical institutes if necessary or if requested to do so.
+
+## The Code of Conduct applies to all situations related to the event
+The Code of Conduct applies to events hosted by Python user groups, processes accompanying the event, and to all participants taking part in such processes.
+*   Applies to all participants (speakers, cooperative organizations, sponsors, volunteers, Organizing Team, etc.).
+*   Applies to all places, processes and outcomes including venue, website, booklets, mail, social media networks, meetings, code repository and other places are connected with the event or the community.
+
+## Please read carefully
+This does not contain the entire list of things that you should not do. What is more important is to truly comprehend the intent of the contents of this Code of Conduct and use it as a guideline to treat each other better. Rather than following this Code of Conduct to the letter, we would like to advice to think about the consequences and reasoning of the specific action with the CoC in mind.
+
+# Community
+## Let’s create a welcoming mood
+All participants should feel that they are welcomed, regardless of their background. People who feel hostile or unwelcomed will hesitate to take part in the community. Please create a welcoming mood to help the Python Community grow. 
+*   Please treat beginners or first-time visitors to the event kindly and warmly.
+*    Be brave.
+    *   If you are more comfortable just listening or watching, then that is fine too. But, if you feel hesitation at a time when you want to participate in a conversation, just remember that the people who are talking actively next to you may have also met for the first time today.
+*   Please react.
+    *   A person might have had to build up courage to come talk to you.
+        *   Please answer kindly to questions or requests for assistance.
+        *   Express your appreciation for responses.
+
+## Make Pycon Korea safe
+Always take the responsibility for what you say and behave. Pycon Korea is an event joined by various people. It is prohibited to speak or act in a way that is threatening or that can be dangerous to others so that everyone can feel that the community is safe and reliable.
+*   Please avoid unnecessary physical contact with others.
+    *    Do not hold hands or put your arms around others without consent
+*    Please do not use profanity, vulgar language, derogatory terms or any form of speech and action that could offend others during conversations.
+    *   Even if you are talking with a close friend, it might be discomforting or threatening to others.
+*   Do not threaten others by expressing anger, using violent body language, raising your voice or any action that could make the person threatened.
+*   Do not engage in any sexual dialog including verbal and non-verbal expressions or behavior that may make the other person feel sexually harassed or shamed.
+    *   “It was drab with just a bunch of dark men here. How nice it is to have a lady join. This place is basically filled with pretty ladies ~”
+    *   Saying things like ‘Oh, so sexy’ as a mere expression
+*   Do not touch the property of others without consent.
+    *   Mobile phones, laptops, etc.
+    *   [Assistance devices for disabilities](http://knat.go.kr/knw/home/knat_DB/my.html) (hearing aids, wheelchairs, etc.)
+*   Dangerous items are not allowed.
+    *   Baseball bats, chemical substances, weapons, sharp objects, etc.
+*   Do not engage in any and all violent behavior that are against the law.
+*   Do not support or encourage any of the aforementioned behavior.
+
+## Please respect differences
+Please create an event that can be enjoyed by everyone regardless of gender, sexual orientation, gender identity, nationality, race, region, religion, age, social status, education, intellectual level, appearance, disability, disease, preferred diets, etc.
+
+*   Speech and behavior based on sexual stereotypes is not allowed
+    *   “All men/women are just like that.”
+    *   Presuming that a female developer is a front-end developer
+    *   Presuming that a counterpart has lower intellectual levels based on the mere fact of being a woman and trying to explain too much
+*   Do not use sexual orientation, gender identity or sexual expressions as jokes or as expressions of belittlement.
+    *   “Are you gay?”, “Your hair is so short that you look like a lesbian.”
+*   Do not discriminate by age, social status or seniority.
+    *   Do not talk down to people you meet for the first time just because they are younger
+    *   “You don’t have much seniority, so you probably won’t know, but…”
+*   Do not speak about matters conclusively when they may differ depending on income and wealth gaps.
+*   Racist / belittling races or using derogatory expressions based on biases against regions or nations is not allowed
+    *   Discriminatory language such as Ja*, Goo*, Chin*
+    *   Racial discriminatory language such as black brother, Yankee, banana
+    *   Regional discriminatory language depending on where one lives or is from
+*   Do not criticize another person’s religion or political belief and do not force your beliefs on others.
+    *   “This is why nobody can get along with people who believe in OO religion”
+    *   “This is why nobody can get along with people who support the OO party”
+*   Be careful not to make unnecessary assessments or make discriminatory comments about the appearance of someone.
+    *   “You look (do not look) like a developer”
+    *   (When describing someone) “That pretty-looking female developer”
+*   Do not act based on biases that people with disabilities always need help.
+    *   Behaving based on your thoughts without being asked is interference. You should first check the intent of the person and offer your services according to the requested method.
+*   Do not degrade diseases or disabilities.
+    *   Do not use language used for degrading people with disabilities.
+        *   Blind, Cyclops, deaf, dumb, cripple, etc.
+    *   “Are you handicapped?”, “Don’t you think that person is mental?”
+    *   “I think this legacy code is going to give me cancer.”
+*   Do not coerce other dietary habits and do not be derogative of other diets.
+    *   “What’s the point of living if you don’t drink?”
+    *   “You should eat meat to keep you healthy.”
+    *   There is no reason for a person to explain their dietary habits to you. Do not ask questions or force them to explain their choices.
+*   Do not speak in a way that is discriminatory against education level or major.
+    *   “Are you a high school grad?”
+    *   “You didn’t major in this, so you probably won’t know."
+*   Do not support or encourage any of the above biases or discrimination.
     
-## 모든 참가자를 포용하는 게 왜 중요한가요?
-파이콘 한국은 다양성을 존중하는 태도가 사회와 커뮤니티를 더 풍요롭게 만드는 원천이라고 믿습니다. 어려운 문제에 대한 해결책을 찾고, 커뮤니티가 계속 성장하여 세상에 긍정적인 변화를 불러오기 위해서는 다양한 경험과 관점이 필요합니다. 그리고 다양한 경험과 관점은 다양한 사람들을 모두 존중하고 포용하는 데에서부터 비롯됩니다.
+Your form of speech and behavior may be taken differently by from what you intended. Stop your speech and behavior as soon as possible if the other person feels uncomfortable.
 
-## 파이콘 한국은 차별과 괴롭힘을 용인하지 않습니다
-행동강령에 따라 파이콘 한국 준비위원회는:
-*   다른 참가자의 안전이 침해되거나 존중받지 못하는 상황이 발생했을 때 이를 중재 또는 제재할 수 있습니다. 
-*   필요한 경우 행동강령을 위반한 참가자를 행사장에서 추방할 수 있습니다. 이 경우 참가비는 환불되지 않습니다.
-*   필요 또는 요청에 따라 사법/의료 기관에 신고할 수 있습니다.
+# Communication
+## Please respect the speaker when speaking
+*   Do not engage in behavior or make noises that can disturb speakers or listeners during presentations.
+*   Do not stop the speaker until he or she clearly states his or her intent that it is okay. Ask questions according to the prescribed time with the prescribed method.
 
-## 행동강령은 행사와 관련된 모든 상황에서 적용됩니다
-행동강령은 파이썬 사용자 그룹이 진행하는 행사와 행사에 수반하는 과정 그리고 그 과정에 참여하는 모든 참가자에게 적용됩니다.
-*   참가자(발표자, 협력단체, 스폰서, 자원봉사자, 준비위원회 등을 포함한 모든 사람)에게 적용됩니다.
-*   행사장, 웹사이트, 책자, 메일, 소셜 네트워크, 회의, 코드 저장소 등 모든 장소 및 과정과 산출물에 적용됩니다.
+## Discussions are for everybody
+In 'open space', many people participate in conversations. Always remember that the opinion of others is just as important as yours. Refrain from cutting others off or raising your voice.
+*   Please take precaution so that a few people do not take excessive amounts of speaking opportunities. Let everyone have equal chances to speak.
+*   Even if you have a dispute with another person, treat that person in a respectful attitude.
 
-## 주의 깊게 읽어주세요
-해서는 안 되는 일들의 전체 목록이 모두 여기에 담겨있지는 않습니다. 그보다는 이 행동강령에 담긴 내용의 의도가 무엇인지 깊이 파악하고 서로에게 좀 더 잘 대할 수 있도록 해주는 가이드로 삼는 것이 중요합니다. 이 행동강령을 문자 그대로 따르기보다 그 안에 담긴 의도를 파악하시고 행동해주실 것을 부탁드립니다.
+## Have constructive discussions
+We all have different backgrounds and knowledge. It is natural for people to have different opinions.
 
-# 커뮤니티
-## 환영하는 분위기를 만들어주세요
-모든 참가자는 그들의 배경과 상관없이 환영받고 있다고 느껴야 합니다. 적대적이거나 환영받지 못한다고 느끼는 사람은 커뮤니티 참여를 주저하게 됩니다. 환영하는 분위기를 조성해 파이썬 커뮤니티가 성장할 수 있도록 도와주세요. 
-*   초심자 혹은 행사에 처음 온 분들에게 친절하고 따뜻하게 대해주세요.
-*   용기를 내주세요.
-    *   듣거나 지켜보는 게 더 편안하다면 그대로도 괜찮습니다. 만약 대화에 참여하고 싶을 때 망설임이 생긴다면 옆에서 활발하게 대화하고 있는 사람들도 오늘 처음 만났을 수 있다는걸 생각해주세요.
-*   반응해주세요.
-    *   당신에게 한 마디를 건네기 위해 상대방은 용기를 냈을지도 모릅니다. 
-        *   질문이나 도움을 구하는 요청에 친절하게 답해주세요.
-        *   답변에는 감사를 표현해주세요.
+Constructive criticism and condemnation are different. Constructive criticism can help with the development of the community and its members. But condemnation focusing on bringing others down or to hurting others are strictly prohibited. If you have a different opinion from another person, state your opinion in a respectful and proper attitude. Have an accepting attitude towards proper criticism which may help you build your knowledge base.
+*   Use respectful expressions. Here are some examples of what not to do.
+    *   That language/library/operating system is garbage (X)
+    *   I think that language/library/operating system has a OO weakness (O)
+*   Criticize content, not people.
+    *   People who believe in the OO theory are idiots (X)
+    *   The OO theory does not have enough evidential support (O)
+*   Concentrate on alternatives and not flaws or problems.
+*   Do not try to humiliate others to show off your knowledge.
 
-## 안전한 파이콘 한국을 만들어주세요
-언제나 스스로의 말과 행동에 책임감을 가져주세요. 파이콘 한국은 다양한 사람들이 함께하는 행사입니다. 모든 사람들이 안전하고 믿을 수 있는 커뮤니티라고 느낄 수 있도록, 다른 사람을 위협하거나 위험하게 만드는 언행을 해서는 안 됩니다.
-*   타인과 불필요한 신체 접촉을 하지 않도록 주의해주세요.
-    *   동의 없이 손을 잡거나 어깨동무하는 행위
-*   대화에 욕설/비속어/은어를 포함하지 마세요. 
-    *   가까운 지인과 대화이더라도 주변 사람에게 불편함을 주거나 위협이 될 수 있습니다. 
-*   화를 내거나 과격한 몸짓, 언성을 높이는 행위 등으로 상대방을 위협하지 마세요.
-*   상대방이 성적으로 수치심을 느낄 수 있는 언어적 표현, 비언어적 행동, 일체의 성적대상화를 하지 말아주세요.
-    *   “시커먼 남자들끼리만 있어서 칙칙했는데 여성분들 오니까 좋네~ 여기는 꽃밭이네~” 
-    *   ‘앙 기O찌’를 감탄사로 사용하는 행위
-*   타인의 소지품을 동의없이 만지지 말아주세요.
-    *   휴대폰, 노트북 등
-    *   [장애인 보조기구](http://knat.go.kr/knw/home/knat_DB/my.html) (보청기, 휠체어 등)
-*   위험한 물건을 소지하지 마세요.
-    *   야구 배트, 화학 물품류, 화기, 날카로운 물건 등
-*   법에 저촉되는 모든 폭력성을 띤 행위를 하지 말아주세요.
-*   위의 모든 행위를 부추기거나 장려하는 행위를 하지 말아주세요.
+## Do not engage in one-sided propaganda or incitement
+Individual thoughts and political preferences must be respected. However, one-sided propaganda or incitement that can interfere with the smooth participation in events by other participants, or that which is irrelevant to the context are prohibited.
+*   Adding political slogans or similar political innuendos in presentation slides
+*   Chanting and yelling slogans in groups in front of booths
 
-## 서로 다름을 존중해주세요
-성별, 성적 지향, 성 정체성, 국적, 인종, 지역, 종교, 나이, 사회적 신분, 학력, 지식 수준, 외모, 장애, 질병, 음식 선호 등에 상관 없이 함께 즐길 수 있는 행사를 만들어주세요. 
+# Privacy
+## Be careful when taking photos or videos
+Always respect the intent of the person being filmed when taking a photo or video. Some people may not want to be in photos or videos.
+*    All events operated by the PyCon Korea Organizing Team have plans for people who do not want to be in videos or photos.
+    *   The detailed method for expressing your intent will be notified for each event. 
 
-*   성별 고정관념에 기반한 언행을 자제해주세요.
-    *   “남자 / 여자 들은 다 그렇죠.”
-    *   여성 개발자에게 “프론트엔드 개발자시죠?”라고 넘겨짚는 행위
-    *   상대방이 여성이라는 이유로 자신보다 지식 수준이 낮을 거라 생각하고 과도하게 설명하는 행위
-*   성적 지향, 성 정체성, 성별 표현을 농담의 소재나 비하의 표현으로 사용하지 말아주세요.
-    *   “게이냐?”, “그렇게 머리가 짧으니 레즈 같다.”
-*   나이, 사회적 신분, 연차에 의한 차별을 하지 말아주세요.
-    *   나이가 어리다는 이유로 처음 보는 사람에게 반말하는 행위 
-    *   “연차가 낮아서 잘 모르시겠지만…”
-*   소득 및 재산 격차에 따라 다를 수 있는 내용을 단정지어 얘기하지 말아주세요.
-*   인종을 비하하거나 지역 또는 국적 편견에 기반한 표현을 자제해주세요.
-    *   쪽O리, 죠O징, 짱O 같은 국적에 따른 차별 발언
-    *   흑형, 양키, 바나나와 같은 인종에 따른 차별 발언
-    *   전OO언과 같은 지역에 따른 차별 발언
-*   다른 사람의 종교나 지지 정당을 비하하거나 자신의 신념을 강요하지 말아주세요.
-    *   “OO교 사람들은 이래서 안돼”
-    *   “OO당 사람들은 이래서 안돼”
-*   상대방의 외모에 대한 불필요한 평가나 차별 발언을 하지 않도록 주의해주세요.
-    *   “OO님은 개발자처럼 생기셨어요/안 생기셨어요”
-    *   (누군가를 특정할 때) “얼굴이 예쁘장했던 여자 개발자”
-*   장애인을 도움이 필요한 대상으로 보고 편견에 기반한 행동을 하지 말아주세요.
-    *   요청하지 않았는데 자신이 생각한 방식으로 행동하는 것은 방해입니다. 먼저 상대의 의사를 확인하고 상대가 요청하는 방식으로 편의 제공을 해야합니다.
-*   질병 또는 장애를 비하하지 마세요.
-    *   장애를 비하하는 단어를 사용 하지 말아주세요.
-        *   장님, 애꾸눈, 귀머거리, 벙어리, 절름발이 등
-    *   “장애인이냐?”, “정신병자 같지 않아?”
-    *   “레거시 코드 때문에 암 걸릴 것 같아.”
-*   다른 식습관을 강요하거나 무시하는 언행을 하지 말아주세요.
-    *   “술을 안 마시면 인생을 무슨 낙으로 살아요?”
-    *   “건강을 생각해서라도 고기를 먹어야지.”
-    *   식습관에는 다른 사람이 납득할 만한 이유가 필요하지 않습니다. 이유를 묻거나 설명을 강요하지 말아주세요.
-*   학력이나 전공에 따라 차별하는 발언을 하지 말아주세요.
-    *   “고졸이세요?”
-    *   “비전공자면 이런 내용 모르시겠네요"
-*   위의 모든 편견과 차별을 부추기거나 장려하는 행위를 하지 말아주세요.
-    
-당신의 언행은 당신의 의도와 다르게 받아들여질 수 있습니다. 상대방이 불쾌하게 여긴다면 해당 언행을 중지해주세요.
+## Protect personal information
+*   If your counterpart does not want to answer a question, do not ask again. Please respect the intent of others.
+*   Please understand that information that may not be sensitive to you, may not be the same for others.
+*   Some questions can be rude no matter how you ask it. (please refrain from asking the following)
+    *   “How old are you?”
+    *   “Are you married?”, “Do you have a child?”, “Do you have a boyfriend/girlfriend/partner?”
+    *   “What kind of medication do you take?”
+    *   “How did you become disabled?”
 
-# 의사 소통
-## 발표장 내에서는 발표자를 존중해주세요
-*   발표 중에는 발표자나 다른 청중들에게 방해되는 행동을 하거나 소음을 내지 말아주세요.
-*   발표자가 분명한 의사를 표명하기 전까진 발표를 중간에 끊는 행위는 제한됩니다. 질문은 정해진 시간에 정해진 방법대로 해주세요.
+# Profit-seeking Behavior
+Pycon Korea prohibits profit-seeking behavior of unauthorized organizations. Profit-seeking behavior includes selling items to gain profits, and all actions that an individual or organization can gain monetary profits whether in the short-term or long-term.
+*   Approaching participants and asking for personal information for reasons such as employment opportunities, etc.
+*   Distributing flyers at the venue without authorization
+*   Other profit-seeking activities
 
-## 대화는 같이 하는 것입니다
-열린공간과 같은 곳에서는 많은 사람들이 대화에 참여합니다. 나의 의견만큼 다른 사람의 의견도 중요함을 항상 기억해주세요. 말을 끊고 방해하거나 언성을 높이는 일은 자제해주세요.
-*   발언 기회를 소수가 과하게 점유하지 않도록 주의해주세요. 발언 기회를 골고루 가져요.
-*   상대와 갈등이 생기더라도 정중한 태도를 유지해주세요. 
+In the event that profit-seeking activity not authorized by Pycon Korea is discovered, legal measures may be taken for the smooth operation of the event.
 
-## 건설적인 토론을 해주세요
-우리는 서로 다른 배경과 지식을 가지고 있습니다. 의견의 불일치는 자연스러운 일입니다.
+# Public Manners
+The space where Pycon Korea is held is a public space attended by many people. Please keep public manners so that it can be an event for everyone to enjoy pleasantly.
 
-비판과 비난은 다릅니다. 건설적인 비판은 커뮤니티와 구성원의 발전에 도움이 됩니다. 하지만 남을 깎아내리고 상처 주기 위한 목적의 비난은 금지됩니다. 상대방과 생각이 다르다면 정중하고 올바른 방법으로 의견을 이야기해주세요. 올바른 비판에는 관대하게 수용하는 자세를 가져주세요.
-*   정중한 표현을 사용해주세요.
-    *   그 언어/라이브러리/운영체제는 쓰레기야 X
-    *   그 언어/라이브러리/운영체제는 OO한 단점이 있다고 생각해 O
-*   사람이 아닌 내용을 비판해주세요.
-    *   OO 이론을 믿는 사람들은 멍청한 사람들이야 X
-    *   OO 이론은 근거가 부족한 이론이야 O
-*   결점이나 문제점이 아닌 대안에 집중해주세요.
-*   내 지식을 과시하기 위해 다른 사람을 망신주지 마세요.
+## Don’t be loud
+*   Videos/music played in high volume without using earphones or headphones
+*   Holding auxiliary events using microphones or amplifiers
 
-## 일방적인 선전이나 선동을 하지 말아주세요
-개인의 생각과 정치적 성향은 존중되어야 합니다. 하지만 다른 참가자의 원활한 행사 참여를 방해하거나 문맥과 상관없는 일방적 선전이나 선동은 금지됩니다.
-*   발표 슬라이드에 정치적 구호를 담는 행위
-*   부스 앞에서 집단으로 구호를 외치는 행위
+## Keep the venue clean
+*   Observe the rules of the venue where the event is held.
+*   Clean up after yourself.
+*   Throw garbage in the garbage can. Observe the recycling rules.
 
-# 프라이버시
-## 사진과 영상을 촬영할 때 주의해주세요
-사진과 영상을 찍을 때는 반드시 찍히는 인물의 의사를 존중해주세요. 사진과 영상에 찍히는 것을 원하지 않는 사람도 있을 수 있습니다.
-*   파이콘 한국 준비위원회가 운영하는 모든 행사는 사진과 영상에 찍히는 것을 원하지 않는 사람들을 위한 방법이 마련됩니다.
-    *   구체적인 의사 표현 방법은 각 행사마다 별도로 공지됩니다. 
+# Reporting
+## Reporting process is as follows
+If you have any problems, or if you see someone else having problems or you have any complaints, please request help to the PyCon Korea Organizing Team or the staff on site. In the case of emergencies, request help from the staff and also file a report to the competent authorities such as the police or fire station.
 
-## 사적인 정보를 지켜주세요
-*   상대방이 질문에 대답하기를 원하지 않는다면, 재차 묻지 말아 주세요. 다른 사람의 의사를 존중해주세요.
-*   나에겐 알려져도 문제가 없는 정보라도 다른 사람에게는 그렇지 않을 수 있음을 이해해주세요.
-*   어떠한 질문은 그 자체로 큰 실례가 되기도 합니다.
-    *   “나이가 어떻게 되세요?”
-    *   “결혼하셨어요?”, “아이가 있으세요?”, “애인 있으세요?”
-    *   “드시는 약은 어떤 약인가요?”
-    *   “어떻게 하다가 장애를 갖게 되셨나요?”
+*   E-mail: [coc@pycon.kr](mailto:coc@pycon.kr)
+*   The staff will be wearing t-shirts that stand out and they are trained on how to react to violations to the Code of Conduct.
 
-# 영리 행위
-파이콘 한국은 허가를 받지 않은 단체의 영리 행위를 금지합니다. 영리 행위는 물건을 팔아서 이득을 취하는 행위, 당장 이득을 취하지는 않지만 장기적으로 개인 혹은 단체가 금전적인 이득을 취할 수 있는 행위를 의미합니다.
-*   직업 소개 등을 구실로 참가자들에게 접근해 개인 정보를 물어보는 행위
-*   행사장에서 무단으로 전단지를 배포하는 행위
-*   기타 영리 행위
+When a violation of the Code of Conduct report is received, the PyCon Korea Organizing Team shall protect the participant immediately according to [Attendee Procedure for incident handling](https://github.com/pythonkr/pycon-code-of-conduct/blob/english/Attendee%20Procedure%20for%20incident%20handling.md)and shall take actions so that the violation is stopped. If necessary, actions such as removal from the venue or contact to judicial/medical institutes shall be made. Utmost efforts shall be taken to protect the reporter and/or victim during the course of this process. 
 
-파이콘 한국의 허가를 받지 않은 영리 행위가 발견될 경우, 원활한 행사 진행을 위해 법적 조치를 취할 수 있습니다.
+In the event that you suspect, but are not sure that there was a violation of the Code of Conduct, notify the Organizing Team and the Committee shall collect more information to come to a judgment, and decide whether or not to take action.  
 
-# 공중 도덕
-파이콘 한국이 진행되는 공간은 많은 사람들이 모이는 공공장소입니다. 모두가 쾌적하게 행사를 즐길 수 있도록 공중 도덕을 지켜주세요.
+Your courage can help us make a safer community.
 
-## 소음을 줄여주세요
-*   이어폰/헤드폰을 사용하지 않고 큰 소리로 재생하는 영상/음악 소리
-*   마이크나 확성기를 이용한 부대 행사 진행
+## The Code of Conduct has the following limitations
+Despite various efforts to create a safe and pleasant community, the Code of Conduct cannot provide full and complete protection for participants from all threats.
+*   In the case of emergencies, request help from the staff and also file a report to the competent authorities such as the police or fire station.
+*   It is difficult to take action against a person or organization that a report was filed against based only on circumstantial evidence. If you feel unsafe regardless of the measures taken or not taken, we can help by accompanying you.
 
-## 공간을 깨끗하게 사용해주세요
-*   행사가 열리는 공간의 규칙을 준수해주세요.
-*   자기가 사용한 자리는 깨끗하게 치워주세요.
-*   쓰레기는 쓰레기통에 버려주세요. 재활용품은 분리수거 규칙을 지켜주세요.
+# Requests
+## Please respect the PyCon Korea Organizing Team
+Members of the PyCon Korea Organizing Team are all members of the Python community just like you, and they are volunteering their time and effort without any form of remuneration from Pycon Korea.
 
-# 신고하기
-## 이렇게 신고해주세요
-당신에게 어떤 문제가 발생했거나 다른 사람이 문제에 처한 것을 보셨거나, 불편 사항이 있으시다면 파이콘 한국 준비위원회나 현장에 있는 스태프에게 도움을 요청해주세요. 위급한 상황이라면 스태프에게 도움을 청함과 동시에 경찰, 소방서 등 관할 기관에 신고해주세요. 
+The PyCon Korea Organizing Team is working hard to respect and assist participants. We ask that you also show respect to the PyCon Korea Organizing Team.
+*   You may be asked for your cooperation such as wearing your nametag, etc. for smooth procession of the event. Please respect and abide to the requests of the staff on site.
+*   The privacy of the members of the Organizing Team must be protected. If you have any questions about the event, please direct inquiries to the official channel and not in private social media accounts of individual members of the Organizing Team.
 
-*   대표 연락처 [coc@pycon.kr](mailto:coc@pycon.kr)
-*   스태프는 눈에 띄는 티셔츠를 입고 있으며 행동강령을 위반했을 때 어떻게 조치해야 하는지 교육을 받은 상태입니다.
+All members of the PyCon Korea Organizing Team shall abide by the Code of Conduct like all other participants. In the event that members of the PyCon Korea Organizing Team violate the Code of Conduct, fair actions in accordance with procedures and standards applied to other participants shall be taken.
 
-행동강령 위반 행위가 접수되면 파이콘 한국 준비위원회는 [사건 처리 절차](https://github.com/pythonkr/pycon-code-of-conduct/blob/korean/Attendee%20Procedure%20for%20incident%20handling.md)에 따라 즉시 참가자를 보호하고, 위반 행위가 중단되도록 대응할 것입니다. 필요한 경우 행사장 퇴장 등의 조치나 사법/의료 기관에 연락을 취할 것입니다. 이 과정에서 신고자나 피해자의 신원보호에 최선을 다할 것입니다.  
+# Contribution
+The Pycon Korea Code of Conduct may be subjected to change in order to better convey its intent, purpose and values. Your contributions will help the Pycon Korea Code of Conduct to develop continuously.
 
-행동강령 위반이 의심되지만 확신이 들지 않는 경우에도 준비위원회에 알려주시면 준비위원회에서 정보를 더 수집하고 판단하여 조치를 취하거나 취하지 않을 것입니다.  
+## Referred Sources
+The contents of the Pycon Korea Code of Conduct referred to the ideas of people who had the same concerns and conducted research before us.
 
-여러분의 용기가 더욱 안전한 커뮤니티를 만드는 데 도움이 됩니다.  
-
-## 행동강령에는 이런 한계가 있어요 
-안전하고 쾌적한 커뮤니티를 위한 다양한 노력에도 불구하고, 행동강령이 모든 위협으로부터 참가자들을 완전하게 보호할 수는 없습니다.
-*   위급한 상황이라면 스태프에게 도움을 청함과 동시에 경찰, 소방서 등 관할 기관에 신고해주세요.
-*   사실 확인이 어려운 경우 심증만으로 피신고자나 단체에 조치를 취하기는 어렵습니다. 조치 여부와 관계 없이 위협을 느끼신다면 동행 등의 도움을 드릴 수 있습니다.
-
-# 당부의 말
-## 준비위원회를 존중해주세요  
-파이콘 한국 준비위원회 구성원은 모두 여러분과 같은 파이썬 커뮤니티의 일원이며, 파이콘 한국을 위해 대가 없이 자발적으로 시간과 노력을 제공하고 있습니다.  
-  
-파이콘 한국 준비위원회는 참가자분들을 존중하며 도움을 드리기 위해 노력하고 있습니다. 여러분도 파이콘 한국 준비위원회를 존중해주시길 부탁드립니다.  
-*   원활한 행사 진행을 위해 명찰 패용 등의 협조를 요청할 수 있습니다. 현장에서 준비위원회의 요청을 존중하고 따라주세요.
-*   준비위원회 구성원의 사생활은 보호되어야 합니다. 행사에 관해 궁금점이 있다면 파이콘 준비위원회 구성원 개인의 SNS가 아닌 공식 채널로 문의해주세요.
-
-파이콘 한국 준비위원회 구성원 모두는 다른 모든 참가자들과 동일하게 행동강령을 지킬 것이며, 파이콘 한국 준비위원회 구성원이 행동강령을 위반하는 경우 다른 참가자들과 동일한 절차와 기준으로 공정하게 대응할 것입니다.  
-
-# 기여하기
-본 파이콘 한국 행동강령은 의도와 목적, 지향하는 가치를 더 잘 전달하기 위해 내용이 변경될 수 있습니다. 여러분의 기여를 통해 파이콘 한국 행동강령은 지속적으로 발전할 수 있습니다.
-
-## 이런 걸 참고했어요
-파이콘 한국 행동강령의 내용들은 다음과 같이 앞서서 고민한 사람들의 생각을 참고하였습니다.
-
-**참고한 문서**
-*   [Elastic 커뮤니티 행동규범](https://www.elastic.co/kr/community/codeofconduct)
-*   [스포카 크리에이터 행동강령](https://spoqa.github.io/2018/06/28/code-of-conduct.html)
-*   [Github Open Source Guides 행동강령](https://opensource.guide/ko/code-of-conduct/)
+**References**
+*   [Elastic Community Code of Conduct](https://www.elastic.co/kr/community/codeofconduct)
+*   [Spoqa Creator Code of Conduct](https://spoqa.github.io/2018/06/28/code-of-conduct.html)
+*   [Github Open Source Guides Code of Conduct](https://opensource.guide/ko/code-of-conduct/)
 *   [OpenStack Code of Conduct](https://www.openstack.org/legal/community-code-of-conduct/)
-*   [JSConf EU 2019 행동강령](https://2019.jsconf.eu/code-of-conduct/)
-*   [JSConf Korea 2019 행동강령](https://2019.jsconfkorea.com/coc)
-*   [DEFCON 행동강령](https://medium.com/@defcon201/about-us-defcon-201-code-of-conduct-dfe0f26bfd49)
-*   [PyCon US 2019 행동강령](https://us.pycon.org/2019/about/code-of-conduct/#!)
+*   [JSConf EU 2019 Code of Conduct](https://2019.jsconf.eu/code-of-conduct/)
+*   [JSConf Korea 2019 Code of Conduct](https://2019.jsconfkorea.com/coc)
+*   [DEFCON Code of Conduct](https://medium.com/@defcon201/about-us-defcon-201-code-of-conduct-dfe0f26bfd49)
+*   [PyCon US 2019 Code of Conduct](https://us.pycon.org/2019/about/code-of-conduct/#!)
 *   [How and why we improved DjangoCon Europe’s Code of Conduct](https://medium.com/@mxsash/how-and-why-we-improved-djangocon-europes-code-of-conduct-8c203eb591ee)
 
-## 제안할 내용이 있다면 기여해주세요
-파이콘 한국 행동강령은 더 나은 커뮤니티를 위해 계속해서 변화하고 있습니다. 파이콘 한국 준비위원회와 많은 사람들의 노력에도 불구하고, 본 행동강령에는 여전히 개선할 점이 존재합니다.  
+## If you have any suggestions, please contribute
+Pycon Korea’s Code of Conduct is constantly changing to achieve the goal of creating a better community. Despite the painstaking efforts of the PyCon Korea Organizing Team and many other people, there are still areas for improvement in this Code of Conduct.
 
-행동강령을 개선하는 과정에 여러분도 동참할 수 있습니다. 제안, 의견 혹은 행동강령과 관련된 어떠한 내용이라도 언제든지 자유롭게 [coc@pycon.kr](mailto:coc@pycon.kr) 로 보내주세요. 보내주신 의견은 준비위원회가 면밀히 검토하겠습니다.  
+You can also participate in the course of improving the Code of Conduct. If you have any suggestions or comments, or anything else regarding the Code of Conduct, please feel free to contact us at [coc@pycon.kr](mailto:coc@pycon.kr). The Organizing Team will take a close look at your comments and suggestions. 
 
-파이콘 한국 준비위원회는 투명성과 기록의 가치를 믿습니다. 행동강령에 변경 사항이 있다면 그 내역을 모두 기록하고 웹사이트를 통해 공개할 것입니다.   
+The PyCon Korea Organizing Team believes in the value of transparency and documentation. If there are any changes to the Code of Conduct, we will record all changes and disclose them through the website.  
 
-[릴리즈 노트](https://github.com/pythonkr/pycon-code-of-conduct/releases)  
+[Release Note](https://github.com/pythonkr/pycon-code-of-conduct/releases)  
 
-본 행동강령은 파이콘 한국 2019 준비위원회가 외부 전문가들의 자문을 받아 작성하였습니다.  
+This Code of Conduct was drafted by the Pycon Korea 2019 Organizing Team with the advice and consultation of outside experts.
     
 -------    
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="크리에이티브 커먼즈 라이선스" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />이 저작물은 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">크리에이티브 커먼즈 저작자표시 4.0 국제 라이선스</a>에 따라 이용할 수 있습니다.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
