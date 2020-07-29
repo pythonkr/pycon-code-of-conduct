@@ -1,15 +1,14 @@
-
-# Pycon Korea Code of Conduct
+# PyCon Korea Code of Conduct
 
 * [Purpose and Objective](#purpose-and-objective)
-    * [Pycon Korea welcomes all participants](#pycon-korea-welcomes-all-participants)
+    * [PyCon Korea welcomes all participants](#pycon-korea-welcomes-all-participants)
     * [Why is it important to embrace all participants?](#why-is-it-important-to-embrace-all-participants)
-    * [Pycon Korea does not tolerate discrimination and harassment](#pycon-korea-does-not-tolerate-discrimination-and-harassment)
+    * [PyCon Korea does not tolerate discrimination and harassment](#pycon-korea-does-not-tolerate-discrimination-and-harassment)
     * [The Code of Conduct applies to all situations related to the event](#the-code-of-conduct-applies-to-all-situations-related-to-the-event)
     * [Please read carefully](#please-read-carefully)
 * [Community](#community)
     * [Let’s create a welcoming mood](#lets-create-a-welcoming-mood)
-    * [Make Pycon Korea safe](#make-pycon-korea-safe)
+    * [Make PyCon Korea safe](#make-pycon-korea-safe)
     * [Please respect differences](#please-respect-differences)
 * [Communication](#communication)
     * [Please respect the speaker when speaking](#please-respect-the-speaker-when-speaking)
@@ -36,21 +35,21 @@
 
 # Purpose and Objective
 
-## Pycon Korea welcomes all participants
-The Pycon Korea Code of Conduct (hereinafter called COC) is the most basic promise that all members must observe to create a Python Community that welcomes everyone.
+## PyCon Korea welcomes all participants
+The PyCon Korea Code of Conduct (hereinafter called COC) is the most basic promise that all members must observe to create a Python Community that welcomes everyone.
 
-Pycon Korea:
+PyCon Korea:
 *   Aims to create events that anyone can participate
 *   Aims to create an atmosphere where all forms of differences are accepted and respected.
-*    Aims to create a conference where all participants are treated equal regardless of gender, sexual orientation, gender identity, nationality, race, region, religion, age, social status, education, intellectual level, appearance, disability, disease, preferred diets and so forth.
+*    Aims to create a conference where all participants are treated equally regardless of gender, sexual orientation, gender identity, nationality, race, region, religion, age, social status, education, intellectual level, appearance, disability, disease, preferred diets, and so forth.
 *   Aims to encourage an atmosphere that welcomes everyone.
     
     
 ## Why is it important to embrace all participants?
-Pycon Korea believes that an attitude of respecting diversity is the source for making society and community more abundant. In order to find solutions to solve difficult problems and help the community to continue to grow and bring about positive changes to the world, it is necessary to have various experiences and perspectives are needed. 
+PyCon Korea believes that an attitude of respecting diversity is the source for making society and the community more abundant. In order to find solutions to solve difficult problems and help the community to continue to grow and bring about positive changes to the world, it is necessary to have various experiences and perspectives are needed. 
 
-## Pycon Korea does not tolerate discrimination and harassment
-Accordance to the Code of Conduct, the PyCon Korea Organizing Team can:
+## PyCon Korea does not tolerate discrimination and harassment
+Accordance with the Code of Conduct, the PyCon Korea Organizing Team can:
 *   Intervene or restrict situations where the safety of another participant/s is/are violated or if that person is not being respected.
 *   Expel participants who violated the Code of Conduct from the event, if necessary. In this case, participation fees will not be refunded.
 *   Report the situation to judicial or medical institutes if necessary or if requested to do so.
@@ -58,24 +57,25 @@ Accordance to the Code of Conduct, the PyCon Korea Organizing Team can:
 ## The Code of Conduct applies to all situations related to the event
 The Code of Conduct applies to events hosted by Python user groups, processes accompanying the event, and to all participants taking part in such processes.
 *   Applies to all participants (speakers, cooperative organizations, sponsors, volunteers, Organizing Team, etc.).
-*   Applies to all places, processes and outcomes including venue, website, booklets, mail, social media networks, meetings, code repository and other places are connected with the event or the community.
+*   Applies to all communication channels to PyCon Korea Organizing Team including event dates.
+*   Applies to all places, processes, and outcomes including presentation materials, venue, website, booklets, mail, social media, meetings, code repository, and other places are connected with the event or the community.
 
 ## Please read carefully
-This does not contain the entire list of things that you should not do. What is more important is to truly comprehend the intent of the contents of this Code of Conduct and use it as a guideline to treat each other better. Rather than following this Code of Conduct to the letter, we would like to advice to think about the consequences and reasoning of the specific action with the CoC in mind.
+This does not contain the entire list of things that you should not do. What is more important is to truly comprehend the intent of the contents of this Code of Conduct and use it as a guideline to treat each other better. Rather than following this Code of Conduct to the letter, we would like to advice you to think about the consequences and reasoning of the specific action with the CoC in mind.
 
 # Community
 ## Let’s create a welcoming mood
-All participants should feel that they are welcomed, regardless of their background. People who feel hostile or unwelcomed will hesitate to take part in the community. Please create a welcoming mood to help the Python Community grow. 
+All participants should feel that they are welcomed, regardless of their background. People who feel hostile or unwelcomed will hesitate to take part in the community. Please create a welcoming mood to help the Python community grow. 
 *   Please treat beginners or first-time visitors to the event kindly and warmly.
 *    Be brave.
     *   If you are more comfortable just listening or watching, then that is fine too. But, if you feel hesitation at a time when you want to participate in a conversation, just remember that the people who are talking actively next to you may have also met for the first time today.
 *   Please react.
-    *   A person might have had to build up courage to come talk to you.
+    *   A person might have had to build up the courage to come talk to you.
         *   Please answer kindly to questions or requests for assistance.
         *   Express your appreciation for responses.
 
-## Make Pycon Korea safe
-Always take the responsibility for what you say and behave. Pycon Korea is an event joined by various people. It is prohibited to speak or act in a way that is threatening or that can be dangerous to others so that everyone can feel that the community is safe and reliable.
+## Make PyCon Korea safe
+Always take responsibility for what you say and behave. PyCon Korea is an event joined by various people. It is prohibited to speak or act in a way that is threatening or that can be dangerous to others so that everyone can feel that the community is safe and reliable.
 *   Please avoid unnecessary physical contact with others.
     *    Do not hold hands or put your arms around others without consent
 *    Please do not use profanity, vulgar language, derogatory terms or any form of speech and action that could offend others during conversations.
@@ -101,15 +101,15 @@ Please create an event that can be enjoyed by everyone regardless of gender, sex
     *   Presuming that a counterpart has lower intellectual levels based on the mere fact of being a woman and trying to explain too much
 *   Do not use sexual orientation, gender identity or sexual expressions as jokes or as expressions of belittlement.
     *   “Are you gay?”, “Your hair is so short that you look like a lesbian.”
-*   Do not discriminate by age, social status or seniority.
+*   Do not discriminate by age, social status, or seniority.
     *   Do not talk down to people you meet for the first time just because they are younger
     *   “You don’t have much seniority, so you probably won’t know, but…”
 *   Do not speak about matters conclusively when they may differ depending on income and wealth gaps.
-*   Racist / belittling races or using derogatory expressions based on biases against regions or nations is not allowed
+*   Racist / belittling races or using derogatory expressions based on biases against regions or nations are not allowed
     *   Discriminatory language such as Ja*, Goo*, Chin*
     *   Racial discriminatory language such as black brother, Yankee, banana
     *   Regional discriminatory language depending on where one lives or is from
-*   Do not criticize another person’s religion or political belief and do not force your beliefs on others.
+*   Do not criticize another person’s religion or political beliefs and do not force your beliefs on others.
     *   “This is why nobody can get along with people who believe in OO religion”
     *   “This is why nobody can get along with people who support the OO party”
 *   Be careful not to make unnecessary assessments or make discriminatory comments about the appearance of someone.
@@ -118,7 +118,7 @@ Please create an event that can be enjoyed by everyone regardless of gender, sex
 *   Do not act based on biases that people with disabilities always need help.
     *   Behaving based on your thoughts without being asked is interference. You should first check the intent of the person and offer your services according to the requested method.
 *   Do not degrade diseases or disabilities.
-    *   Do not use language used for degrading people with disabilities.
+    *   Do not use the language used for degrading people with disabilities.
         *   Blind, Cyclops, deaf, dumb, cripple, etc.
     *   “Are you handicapped?”, “Don’t you think that person is mental?”
     *   “I think this legacy code is going to give me cancer.”
@@ -139,17 +139,17 @@ Your form of speech and behavior may be taken differently by from what you inten
 *   Do not stop the speaker until he or she clearly states his or her intent that it is okay. Ask questions according to the prescribed time with the prescribed method.
 
 ## Discussions are for everybody
-In 'open space', many people participate in conversations. Always remember that the opinion of others is just as important as yours. Refrain from cutting others off or raising your voice.
-*   Please take precaution so that a few people do not take excessive amounts of speaking opportunities. Let everyone have equal chances to speak.
+Many people participate in conversations in various places, like Open Space, PyCon Korea’s public Slack channel for the conference, and YouTube Channel. Always remember that the opinion of others is just as important as yours. Refrain from cutting others off or raising your voice.
+*   Please take precautions so that a few people do not take excessive amounts of speaking opportunities. Let everyone have equal chances to speak.
 *   Even if you have a dispute with another person, treat that person in a respectful attitude.
 
 ## Have constructive discussions
 We all have different backgrounds and knowledge. It is natural for people to have different opinions.
 
-Constructive criticism and condemnation are different. Constructive criticism can help with the development of the community and its members. But condemnation focusing on bringing others down or to hurting others are strictly prohibited. If you have a different opinion from another person, state your opinion in a respectful and proper attitude. Have an accepting attitude towards proper criticism which may help you build your knowledge base.
+Constructive criticism and condemnation are different. Constructive criticism can help with the development of the community and its members. But condemnation focusing on bringing others down or to hurting others is strictly prohibited. If you have a different opinion from another person, state your opinion in a respectful and proper attitude. Have an accepting attitude towards proper criticism which may help you build your knowledge base.
 *   Use respectful expressions. Here are some examples of what not to do.
     *   That language/library/operating system is garbage (X)
-    *   I think that language/library/operating system has a OO weakness (O)
+    *   I think that the language/library/operating system has a OO weakness (O)
 *   Criticize content, not people.
     *   People who believe in the OO theory are idiots (X)
     *   The OO theory does not have enough evidential support (O)
@@ -160,12 +160,16 @@ Constructive criticism and condemnation are different. Constructive criticism ca
 Individual thoughts and political preferences must be respected. However, one-sided propaganda or incitement that can interfere with the smooth participation in events by other participants, or that which is irrelevant to the context are prohibited.
 *   Adding political slogans or similar political innuendos in presentation slides
 *   Chanting and yelling slogans in groups in front of booths
+*   Interfering others’ communication by promoting a content repetitively and continuously on PyCon Korea’s official social media, PyCon Korea’s public Slack channel, or PyCon Korea’s YouTube channel.
 
 # Privacy
 ## Be careful when taking photos or videos
 Always respect the intent of the person being filmed when taking a photo or video. Some people may not want to be in photos or videos.
 *    All events operated by the PyCon Korea Organizing Team have plans for people who do not want to be in videos or photos.
     *   The detailed method for expressing your intent will be notified for each event. 
+    *   When the event is held online, the following rules will apply:
+        *   Do not capture the presentation video without the speaker’s consent.
+        *   Do not include any information that can identify someone without their permission
 
 ## Protect personal information
 *   If your counterpart does not want to answer a question, do not ask again. Please respect the intent of others.
@@ -177,17 +181,17 @@ Always respect the intent of the person being filmed when taking a photo or vide
     *   “How did you become disabled?”
 
 # Profit-seeking Behavior
-Pycon Korea prohibits profit-seeking behavior of unauthorized organizations. Profit-seeking behavior includes selling items to gain profits, and all actions that an individual or organization can gain monetary profits whether in the short-term or long-term.
+PyCon Korea prohibits the profit-seeking behavior of unauthorized organizations. Profit-seeking behavior includes selling items to gain profits and all actions that an individual or organization can gain monetary profits whether in the short-term or long-term.
 *   Approaching participants and asking for personal information for reasons such as employment opportunities, etc.
 *   Distributing flyers at the venue without authorization
 *   Other profit-seeking activities
 
-In the event that profit-seeking activity not authorized by Pycon Korea is discovered, legal measures may be taken for the smooth operation of the event.
+In the event that profit-seeking activity not authorized by PyCon Korea is discovered, legal measures may be taken for the smooth operation of the event.
 
 # Public Manners
-The space where Pycon Korea is held is a public space attended by many people. Please keep public manners so that it can be an event for everyone to enjoy pleasantly.
+PyCon Korea’s event venue is a public space attended by many people. Please keep public manners so that it can be an event for everyone to enjoy pleasantly.
 
-## Don’t be loud
+## Keep the noise down that can interfere with the presentation
 *   Videos/music played in high volume without using earphones or headphones
 *   Holding auxiliary events using microphones or amplifiers
 
@@ -197,7 +201,7 @@ The space where Pycon Korea is held is a public space attended by many people. P
 *   Throw garbage in the garbage can. Observe the recycling rules.
 
 # Reporting
-## Reporting process is as follows
+## The Reporting process is as follows
 If you have any problems, or if you see someone else having problems or you have any complaints, please request help to the PyCon Korea Organizing Team or the staff on site. In the case of emergencies, request help from the staff and also file a report to the competent authorities such as the police or fire station.
 
 *   E-mail: [coc@pycon.kr](mailto:coc@pycon.kr)
@@ -216,19 +220,19 @@ Despite various efforts to create a safe and pleasant community, the Code of Con
 
 # Requests
 ## Please respect the PyCon Korea Organizing Team
-Members of the PyCon Korea Organizing Team are all members of the Python community just like you, and they are volunteering their time and effort without any form of remuneration from Pycon Korea.
+Members of the PyCon Korea Organizing Team are all members of the Python community just like you, and they are volunteering their time and effort without any form of remuneration from PyCon Korea.
 
 The PyCon Korea Organizing Team is working hard to respect and assist participants. We ask that you also show respect to the PyCon Korea Organizing Team.
-*   You may be asked for your cooperation such as wearing your nametag, etc. for smooth procession of the event. Please respect and abide to the requests of the staff on site.
+*   You may be asked for your cooperation such as wearing your nametag, etc. for the smooth procession of the event. Please respect and abide by the requests of the staff on site.
 *   The privacy of the members of the Organizing Team must be protected. If you have any questions about the event, please direct inquiries to the official channel and not in private social media accounts of individual members of the Organizing Team.
 
 All members of the PyCon Korea Organizing Team shall abide by the Code of Conduct like all other participants. In the event that members of the PyCon Korea Organizing Team violate the Code of Conduct, fair actions in accordance with procedures and standards applied to other participants shall be taken.
 
 # Contribution
-The Pycon Korea Code of Conduct may be subjected to change in order to better convey its intent, purpose and values. Your contributions will help the Pycon Korea Code of Conduct to develop continuously.
+The PyCon Korea Code of Conduct may be subjected to change in order to better convey its intent, purpose, and values. Your contributions will help the PyCon Korea Code of Conduct to develop continuously.
 
 ## Referred Sources
-The contents of the Pycon Korea Code of Conduct referred to the ideas of people who had the same concerns and conducted research before us.
+The contents of the PyCon Korea Code of Conduct referred to the ideas of people who had the same concerns and conducted research before us.
 
 **References**
 *   [Elastic Community Code of Conduct](https://www.elastic.co/kr/community/codeofconduct)
@@ -242,7 +246,7 @@ The contents of the Pycon Korea Code of Conduct referred to the ideas of people 
 *   [How and why we improved DjangoCon Europe’s Code of Conduct](https://medium.com/@mxsash/how-and-why-we-improved-djangocon-europes-code-of-conduct-8c203eb591ee)
 
 ## If you have any suggestions, please contribute
-Pycon Korea’s Code of Conduct is constantly changing to achieve the goal of creating a better community. Despite the painstaking efforts of the PyCon Korea Organizing Team and many other people, there are still areas for improvement in this Code of Conduct.
+PyCon Korea’s Code of Conduct is constantly changing to achieve the goal of creating a better community. Despite the painstaking efforts of the PyCon Korea Organizing Team and many other people, there are still areas for improvement in this Code of Conduct.
 
 You can also participate in the course of improving the Code of Conduct. If you have any suggestions or comments, or anything else regarding the Code of Conduct, please feel free to contact us at [coc@pycon.kr](mailto:coc@pycon.kr). The Organizing Team will take a close look at your comments and suggestions. 
 
@@ -250,7 +254,8 @@ The PyCon Korea Organizing Team believes in the value of transparency and docume
 
 [Release Note](https://github.com/pythonkr/pycon-code-of-conduct/releases)  
 
-This Code of Conduct was drafted by the Pycon Korea 2019 Organizing Team with the advice and consultation of outside experts.
+This Code of Conduct was drafted by the PyCon Korea 2019 Organizing Team with the advice and consultation of outside experts.
+PyCon Korea 2020 Organizing Team updated the contents to fit the online event.
     
 -------    
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
