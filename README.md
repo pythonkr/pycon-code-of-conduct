@@ -1,7 +1,7 @@
 파이콘 한국 행동강령 PyCon KR Code of Conduct 
 =====================
 
-이 저장소는 [파이콘 한국 행동강령](https://github.com/pythonkr/pycon-code-of-conduct/blob/korean/code_of_conduct.md)을 포함하여 스태프들과 참가자들을 위한 가이드라인을 포함하고 있습니다.
+이 저장소는 [파이콘 한국 행동강령(국문)](https://github.com/pythonkr/pycon-code-of-conduct/blob/korean/code_of_conduct.md) / [PyCon Korea CoC (Eng)](https://github.com/pythonkr/pycon-code-of-conduct/blob/english/code_of_conduct.md) 을 포함하여 스태프들과 참가자들을 위한 가이드라인을 포함하고 있습니다.
 
 파이콘 한국은:
 - 누구나 편안하게 참여할 수 있는 행사를 지향합니다.
