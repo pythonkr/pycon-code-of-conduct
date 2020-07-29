@@ -65,11 +65,11 @@ This does not contain the entire list of things that you should not do. What is 
 
 # Community
 ## Let’s create a welcoming mood
-All participants should feel that they are welcomed, regardless of their background. People who feel hostile or unwelcomed will hesitate to take part in the community. Please create a welcoming mood to help the Python community grow. 
+All participants should feel that they are welcomed, regardless of their background. People who feel hostile or unwelcomed will hesitate to take part in the community. Please create a welcoming mood to help the Python community grow.   
 *   Please treat beginners or first-time visitors to the event kindly and warmly.
-*    Be brave.
-    *   If you are more comfortable just listening or watching, then that is fine too. But, if you feel hesitation at a time when you want to participate in a conversation, just remember that the people who are talking actively next to you may have also met for the first time today.
-*   Please react.
+*   Be brave.  
+    *   If you are more comfortable just listening or watching, then that is fine too. But, if you feel hesitation at a time when you want to participate in a conversation, just remember that the people who are talking actively next to you may have also met for the first time today.  
+*   Please react.  
     *   A person might have had to build up the courage to come talk to you.
         *   Please answer kindly to questions or requests for assistance.
         *   Express your appreciation for responses.
@@ -78,8 +78,8 @@ All participants should feel that they are welcomed, regardless of their backgro
 Always take responsibility for what you say and behave. PyCon Korea is an event joined by various people. It is prohibited to speak or act in a way that is threatening or that can be dangerous to others so that everyone can feel that the community is safe and reliable.
 *   Please avoid unnecessary physical contact with others.
     *    Do not hold hands or put your arms around others without consent
-*    Please do not use profanity, vulgar language, derogatory terms or any form of speech and action that could offend others during conversations.
-    *   Even if you are talking with a close friend, it might be discomforting or threatening to others.
+*   Please do not use profanity, vulgar language, derogatory terms or any form of speech and action that could offend others during conversations.  
+    *   Even if you are talking with a close friend, it might be discomforting or threatening to others.  
 *   Do not threaten others by expressing anger, using violent body language, raising your voice or any action that could make the person threatened.
 *   Do not engage in any sexual dialog including verbal and non-verbal expressions or behavior that may make the other person feel sexually harassed or shamed.
     *   “It was drab with just a bunch of dark men here. How nice it is to have a lady join. This place is basically filled with pretty ladies ~”
@@ -165,11 +165,11 @@ Individual thoughts and political preferences must be respected. However, one-si
 # Privacy
 ## Be careful when taking photos or videos
 Always respect the intent of the person being filmed when taking a photo or video. Some people may not want to be in photos or videos.
-*    All events operated by the PyCon Korea Organizing Team have plans for people who do not want to be in videos or photos.
-    *   The detailed method for expressing your intent will be notified for each event. 
-    *   When the event is held online, the following rules will apply:
-        *   Do not capture the presentation video without the speaker’s consent.
-        *   Do not include any information that can identify someone without their permission
+*   All events operated by the PyCon Korea Organizing Team have plans for people who do not want to be in videos or photos.  
+    *   The detailed method for expressing your intent will be notified for each event.   
+*   When the event is held online, the following rules will apply:  
+    *   Do not capture the presentation video without the speaker’s consent.  
+    *   Do not include any information that can identify someone without their permission  
 
 ## Protect personal information
 *   If your counterpart does not want to answer a question, do not ask again. Please respect the intent of others.
