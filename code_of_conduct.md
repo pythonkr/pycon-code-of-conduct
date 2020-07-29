@@ -169,9 +169,9 @@ Always respect the intent of the person being filmed when taking a photo or vide
     *   The detailed method for expressing your intent will be notified for each event.   
 *   When the event is held online, the following rules will apply:  
     *   Do not capture the presentation video without the speaker’s consent.  
-    *   Do not include any information that can identify someone without their permission  
 
 ## Protect personal information
+*   Do not include any information that can identify someone without their permission.  
 *   If your counterpart does not want to answer a question, do not ask again. Please respect the intent of others.
 *   Please understand that information that may not be sensitive to you, may not be the same for others.
 *   Some questions can be rude no matter how you ask it. (please refrain from asking the following)
@@ -205,7 +205,9 @@ PyCon Korea’s event venue is a public space attended by many people. Please ke
 If you have any problems, or if you see someone else having problems or you have any complaints, please request help to the PyCon Korea Organizing Team or the staff on site. In the case of emergencies, request help from the staff and also file a report to the competent authorities such as the police or fire station.
 
 *   E-mail: [coc@pycon.kr](mailto:coc@pycon.kr)
-*   The staff will be wearing t-shirts that stand out and they are trained on how to react to violations to the Code of Conduct.
+*   The staff are trained on how to react to violations to the Code of Conduct.  
+*   The staff will be wearing t-shirts that stand out in offline venues.  
+
 
 When a violation of the Code of Conduct report is received, the PyCon Korea Organizing Team shall protect the participant immediately according to [Attendee Procedure for incident handling](https://github.com/pythonkr/pycon-code-of-conduct/blob/english/Attendee%20Procedure%20for%20incident%20handling.md)and shall take actions so that the violation is stopped. If necessary, actions such as removal from the venue or contact to judicial/medical institutes shall be made. Utmost efforts shall be taken to protect the reporter and/or victim during the course of this process. 
 
