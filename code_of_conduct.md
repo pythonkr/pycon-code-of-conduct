@@ -81,7 +81,7 @@ Always take responsibility for what you say and behave. PyCon Korea is an event 
 *   Please do not use profanity, vulgar language, derogatory terms or any form of speech and action that could offend others during conversations.  
     *   Even if you are talking with a close friend, it might be discomforting or threatening to others.  
 *   Do not threaten others by expressing anger, using violent body language, raising your voice or any action that could make the person threatened.
-*   Do not engage in any sexual dialog including verbal and non-verbal expressions or behavior that may make the other person feel sexually harassed or shamed.
+*   Do not engage in any sexual dialog, including verbal and non-verbal expressions or behavior that may make the other person feel sexually harassed or displeased.
     *   “It was drab with just a bunch of dark men here. How nice it is to have a lady join. This place is basically filled with pretty ladies ~”
     *   Saying things like ‘Oh, so sexy’ as a mere expression
 *   Do not touch the property of others without consent.
