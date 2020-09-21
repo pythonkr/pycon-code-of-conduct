@@ -12,7 +12,7 @@
     * [Please respect differences](#please-respect-differences)
 * [Communication](#communication)
     * [Please respect the speaker when speaking](#please-respect-the-speaker-when-speaking)
-    * [Discussions are for everybody](#discussions-are-for-everybody)
+    * [Discussions are mutual](#discussions-are-mutual)
     * [Have constructive discussions](#have-constructive-discussions)
     * [Do not engage in one-sided propaganda or incitement](#do-not-engage-in-one-sided-propaganda-or-incitement)
 * [Privacy](#privacy)
@@ -20,10 +20,10 @@
     * [Protect personal information](#protect-personal-information)
 * [Profit-seeking Behavior](#profit-seeking-behavior)
 * [Public Manners](#public-manners)
-    * [Don’t be loud](#dont-be-loud)
+    * [Keep the noise down that can interfere with the presentation](#keep-the-noise-down-that-can-interfere-with-the-presentation)
     * [Keep the venue clean](#keep-the-venue-clean)
 * [Reporting](#reporting)
-    * [Reporting process is as follows](#reporting-process-is-as-follows)
+    * [The reporting process is as follows](#the-reporting-process-is-as-follows)
     * [The Code of Conduct has the following limitations](#the-code-of-conduct-has-the-following-limitations)
 * [Requests](#requests)
     * [Please respect the PyCon Korea Organizing Team](#please-respect-the-pycon-korea-organizing-team)
@@ -51,7 +51,7 @@ PyCon Korea believes that an attitude of respecting diversity is the source for 
 ## PyCon Korea does not tolerate discrimination and harassment
 Accordance with the Code of Conduct, the PyCon Korea Organizing Team can:
 *   Intervene or restrict situations where the safety of another participant/s is/are violated or if that person is not being respected.
-*   Expel participants who violated the Code of Conduct from the event, if necessary. In this case, participation fees will not be refunded.
+*   Expel participants who violated the Code of Conduct from the event space (venue, official social media channels, or Slack workspace), if necessary. In this case, participation fees will not be refunded.
 *   Report the situation to judicial or medical institutes if necessary or if requested to do so.
 
 ## The Code of Conduct applies to all situations related to the event
@@ -65,7 +65,7 @@ This does not contain the entire list of things that you should not do. What is 
 
 # Community
 ## Let’s create a welcoming mood
-All participants should feel that they are welcomed, regardless of their background. People who feel hostile or unwelcomed will hesitate to take part in the community. Please create a welcoming mood to help the Python community grow.   
+All participants should feel that they are welcomed, regardless of their background. People who feel that they are marginalized or not welcomed will hesitate to take part in the community. Please create a welcoming mood to help the Python community grow.   
 *   Please treat beginners or first-time visitors to the event kindly and warmly.
 *   Be brave.  
     *   If you are more comfortable just listening or watching, then that is fine too. But, if you feel hesitation at a time when you want to participate in a conversation, just remember that the people who are talking actively next to you may have also met for the first time today.  
@@ -138,8 +138,8 @@ Your form of speech and behavior may be taken differently by from what you inten
 *   Do not engage in behavior or make noises that can disturb speakers or listeners during presentations.
 *   Do not stop the speaker until he or she clearly states his or her intent that it is okay. Ask questions according to the prescribed time with the prescribed method.
 
-## Discussions are for everybody
-Many people participate in conversations in various places, like Open Space, PyCon Korea’s public Slack channel for the conference, and YouTube Channel. Always remember that the opinion of others is just as important as yours. Refrain from cutting others off or raising your voice.
+## Discussions are mutual
+Many people participate in conversations in various places, like Open Space, PyCon Korea’s public Slack channel for the conference, and YouTube Channel. Always remember that the opinion of others is just as important as yours. Do not interfere with the conversation by cutting others off, raising your voice, or sending repetitive messages.
 *   Please take precautions so that a few people do not take excessive amounts of speaking opportunities. Let everyone have equal chances to speak.
 *   Even if you have a dispute with another person, treat that person in a respectful attitude.
 
@@ -172,6 +172,7 @@ Always respect the intent of the person being filmed when taking a photo or vide
 
 ## Protect personal information
 *   Do not include any information that can identify someone without their permission.  
+*   Do not capture or distribute the chat log, profile, or any personal information without their consent.
 *   If your counterpart does not want to answer a question, do not ask again. Please respect the intent of others.
 *   Please understand that information that may not be sensitive to you, may not be the same for others.
 *   Some questions can be rude no matter how you ask it. (please refrain from asking the following)
@@ -202,12 +203,11 @@ PyCon Korea’s event venue is a public space attended by many people. Please ke
 
 # Reporting
 ## The Reporting process is as follows
-If you have any problems, or if you see someone else having problems or you have any complaints, please request help to the PyCon Korea Organizing Team or the staff on site. In the case of emergencies, request help from the staff and also file a report to the competent authorities such as the police or fire station.
+If you have any problems, or if you see someone else having problems or you have any complaints, please request help to the PyCon Korea Organizing Team on site. In the case of emergencies, request help from the staff and also file a report to the competent authorities such as the police or fire station.
 
 *   E-mail: [coc@pycon.kr](mailto:coc@pycon.kr)
 *   The staff are trained on how to react to violations to the Code of Conduct.  
-*   The staff will be wearing t-shirts that stand out in offline venues.  
-
+*   The staff will be wearing t-shirts that stand out in offline venues. The staff can be reached via email above.
 
 When a violation of the Code of Conduct report is received, the PyCon Korea Organizing Team shall protect the participant immediately according to [Attendee Procedure for incident handling](https://github.com/pythonkr/pycon-code-of-conduct/blob/english/Attendee%20Procedure%20for%20incident%20handling.md)and shall take actions so that the violation is stopped. If necessary, actions such as removal from the venue or contact to judicial/medical institutes shall be made. Utmost efforts shall be taken to protect the reporter and/or victim during the course of this process. 
 
