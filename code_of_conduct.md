@@ -10,6 +10,7 @@
     * [Let’s create a welcoming mood](#lets-create-a-welcoming-mood)
     * [Make PyCon Korea safe](#make-pycon-korea-safe)
     * [Please respect differences](#please-respect-differences)
+    * [Do not pretend that you are a member of the PyCon Korea Organizing Team or a staff, or distribute false information](#do-not-pretend-that-you-are-a-member-of-the-pyCon-korea-organizing-team-or-a-staff-or-distribute-false-information)    
 * [Communication](#communication)
     * [Please respect the speaker when speaking](#please-respect-the-speaker-when-speaking)
     * [Discussions are mutual](#discussions-are-mutual)
@@ -132,6 +133,13 @@ Please create an event that can be enjoyed by everyone regardless of gender, sex
 *   Do not support or encourage any of the above biases or discrimination.
     
 Your form of speech and behavior may be taken differently by from what you intended. Stop your speech and behavior as soon as possible if the other person feels uncomfortable.
+
+## Do not pretend that you are a member of the PyCon Korea Organizing Team or a staff, or distribute false information.
+Impersonation of staff can confuse the participants with false information, and people in need may not be able to get the help they need in time. The PyCon Korea Organizing Team do not publish or distribute the information other than the official channels. It is to prevent the disadvantages from information divide among attendees.
+*   Do not intentionally do anything, such as having similar profile images or nicknames to the staffs,  that can be identified as a staff at the event space.
+     *   If it’s needed, we can ask you to change the profile.
+*   Do not distribute information that is not from the official channels, such as website, official social media, emails from PyCon Korea’s account, etc.
+     *   "A friend of mine from the PyCon Korea Organizing Team says things like this."
 
 # Communication
 ## Please respect the speaker when speaking
