@@ -29,17 +29,23 @@ theme:
 nav:
   # - Home: index.md
   - Code of Conduct (English):
-      - Introduction: en/coc/intro.md
-      - Enforcement: en/coc/enforcement.md
-      - Guidelines: en/coc/guidelines.md
-      - Report: en/report.md
+
+      - Intent and Purpose: en/coc/a_intent_and_purpose.md
+      - Community: en/coc/b_community.md
+      - Communication: en/coc/c_communication.md
+      - Privacy: en/coc/d_privacy.md
+      - Commercial Activity: en/coc/e_commercial_activity.md
+      - Public Decorum: en/coc/f_public_decorum.md
+      - Reporting: en/coc/g_reporting.md
+      - Contributing: en/coc/h_contributing.md
+
   - Code of Conduct (Korean):
       - 의도와 목적: ko/coc/a_intent_and_purpose.md
       - 커뮤니티: ko/coc/b_community.md
       - 의사소통: ko/coc/c_communication.md
       - 프라이버시: ko/coc/d_privacy.md
       - 영리 행위: ko/coc/e_commercial_activity.md
-      - 공중 도덕: ko/coc/f_public_morality.md
+      - 공중 도덕: ko/coc/f_public_decorum.md
       - 신고하기: ko/coc/g_reporting.md
       - 기여하기: ko/coc/h_contributing.md
   - REPORT(신고하기): https://forms.gle/M3xNuyMJ9qkGg79m7
