@@ -1,4 +1,7 @@
 site_name: PyCon KR CoC
+site_url: https://pythonkr.github.io/pycon-code-of-conduct
+repo_url: https://github.com/pythonkr/pycon-code-of-conduct
+
 theme:
   name: material
   logo: logo.png
@@ -29,7 +32,6 @@ theme:
 nav:
   # - Home: index.md
   - Code of Conduct (English):
-
       - Intent and Purpose: en/coc/a_intent_and_purpose.md
       - Community: en/coc/b_community.md
       - Communication: en/coc/c_communication.md
@@ -38,7 +40,6 @@ nav:
       - Public Decorum: en/coc/f_public_decorum.md
       - Reporting: en/coc/g_reporting.md
       - Contributing: en/coc/h_contributing.md
-
   - Code of Conduct (Korean):
       - 의도와 목적: ko/coc/a_intent_and_purpose.md
       - 커뮤니티: ko/coc/b_community.md
