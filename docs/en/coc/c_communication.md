@@ -15,8 +15,8 @@
 - "That language/library/OS is garbage" ❌
 - "I think that language/library/OS has certain shortcomings" ⭕
 - Criticize the content, not the person.
-    - "People who believe in theory X are idiots" ❌
-    - "Theory X lacks sufficient evidence" ⭕
+  - "People who believe in theory X are idiots" ❌
+  - "Theory X lacks sufficient evidence" ⭕
 - Focus on providing alternatives rather than just pointing out flaws.
 - Do not hurt others just to showcase your knowledge.
 - Ensure that all participants have an equal opportunity to engage in the conversation.
@@ -25,6 +25,6 @@
 ## Avoid One-Sided Propaganda or Agitation
 
 - Personal beliefs and political inclinations should be respected. However, do not interfere with other participants' ability to engage in the event, and avoid unsolicited propaganda or agitation that is out of context.
-    - Including political slogans or excessive promotional material in presentation slides
-    - Chanting slogans in groups in front of booths
-    - Repeatedly promoting opinions in the comments on PyCon Korea’s official SNS, Slack, or YouTube channels to the extent that it prevents others from sharing their views
+  - Including political slogans or excessive promotional material in presentation slides
+  - Chanting slogans in groups in front of booths
+  - Repeatedly promoting opinions in the comments on PyCon Korea’s official SNS, Slack, or YouTube channels to the extent that it prevents others from sharing their views
