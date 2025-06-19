@@ -2,7 +2,9 @@
 
 이 저장소는 [파이콘 한국 행동강령(국문)](https://github.com/pythonkr/pycon-code-of-conduct/blob/korean/code_of_conduct.md) / [PyCon Korea CoC (Eng)](https://github.com/pythonkr/pycon-code-of-conduct/blob/english/code_of_conduct.md) 을 포함하여 스태프들과 참가자들을 위한 가이드라인을 포함하고 있습니다.
 
-`mkdocs` 브랜치의 문서를 GitHub Actions으로 빌드하여 gh-pages 브랜치에서 배포하고 있습니다.
+`mkdocs` 브랜치의 문서를 GitHub Actions으로 빌드하여 `gh-pages` 브랜치에서 배포하고 있습니다.
+
+---
 
 파이콘 한국은:
 
