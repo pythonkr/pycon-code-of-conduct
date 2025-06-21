@@ -26,6 +26,8 @@ theme:
       primary: deep orange
       accent: lime
 
+use_directory_urls: false
+
 nav:
   # - Home: index.md
   - Code of Conduct (English):
